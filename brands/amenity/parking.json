@@ -9,6 +9,20 @@
       "name": "Diamond Parking"
     }
   },
+{
+  "amenity/parking|NCP": {
+    "countryCodes": ["gb"],
+      "matchNames": [
+      "ncp"
+    ],
+    "tags": {
+      "amenity": "parking",
+      "brand": "NCP",
+      "brand:wikidata": "Q6971273",
+      "operator": "NCP"
+      "fee": "yes"
+    }
+  },
   "amenity/parking|Parking Company of America": {
     "countryCodes": ["us"],
     "tags": {
