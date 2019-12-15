@@ -22,7 +22,6 @@
       "fee": "yes"
     }
   },
-{
   "amenity/parking|Parking Company of America": {
     "countryCodes": ["us"],
     "tags": {
