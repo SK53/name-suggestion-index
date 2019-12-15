@@ -9,7 +9,6 @@
       "name": "Diamond Parking"
     }
   },
-{
   "amenity/parking|NCP": {
     "countryCodes": ["gb"],
       "matchNames": [
